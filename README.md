@@ -1,6 +1,6 @@
 # Internet BGP Dashboard
 
-![] (graph.png)
+![Grafana Graph](graph.png)
 
 ## Requirements
 - `docker-compose`
