@@ -1,0 +1,3 @@
+container-files/influxdb/data/
+container-files/influxdb/meta/
+container-files/influxdb/wal/
